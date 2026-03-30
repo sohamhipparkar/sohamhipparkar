@@ -95,7 +95,7 @@ A Software Developer with a passion for building scalable full-stack web applica
 ### 🌐 Connect with Me
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/sohamhipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-linkedin" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/soham-hipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/soham_9105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekh_19" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sohamhipparkar" target="blank"><img align="center" src="https://img.icons8.com/color/48/codechef.png" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sohamhipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekhipparkar" height="30" width="40" /></a>
