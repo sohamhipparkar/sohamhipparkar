@@ -85,9 +85,12 @@ A Software Developer with a passion for building scalable full-stack web applica
 
 ### 🐍 Contribution Snake
 
-<!-- <img src="https://raw.githubusercontent.com/sohamhipparkar/sohamhipparkar/output/snake.svg" alt="Snake animation" /> --> 
+<div align="center">
+  <img src="https://github.com/sohamhipparkar/sohamhipparkar/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
 ---
+
 
 ### 🌐 Connect with Me
 
@@ -98,3 +101,5 @@ A Software Developer with a passion for building scalable full-stack web applica
 <a href="https://www.leetcode.com/sohamhipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekhipparkar" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/sohamhipparkar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="vivek_gfg" height="30" width="40" /></a>
 </div>
+
+
