@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Soham</h1>
 
-### <h4 align="left">
+<h4 align="left">
 A Software Developer with a passion for building scalable full-stack web applications that address real-world problems. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.
 </h4>
 
@@ -16,7 +16,6 @@ A Software Developer with a passion for building scalable full-stack web applica
 
 ---
 
-### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" />
@@ -75,24 +74,18 @@ A Software Developer with a passion for building scalable full-stack web applica
 
 ---
 
-### 🔥 GitHub Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sohamhipparkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
 ---
 
-### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/sohamhipparkar/sohamhipparkar/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 ---
-
-
-### 🌐 Connect with Me
 
 <div align="center">
    <a href="https://www.linkedin.com/in/soham-hipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-linkedin" height="30" width="40" /></a>
