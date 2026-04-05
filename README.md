@@ -88,11 +88,11 @@ A Software Developer with a passion for building scalable full-stack web applica
 ---
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/soham-hipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/soham_9105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham_9105" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sohamhipparkar" target="blank"><img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="soham_codechef" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sohamhipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamhipparkar" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/sohamhipparkar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="soham_gfg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/soham-hipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in alt.svg" alt="soham-linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/soham_9105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham_9105" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/sohamhipparkar" target="blank"><img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="soham_codechef" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/sohamhipparkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohamhipparkar" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/sohamhipparkar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="soham_gfg" height="30" width="40" /></a>
 </div>
 
 
