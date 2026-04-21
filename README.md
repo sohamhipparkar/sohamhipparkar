@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Soham</h1>
 
 <h4 align="left">
-A Software Developer with a passion for building scalable full-stack web applications that address real-world problems. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.
+A Software Develoooer with a passion for building scalable full-stack web applications that address real-world problems. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.
 </h4>
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
