@@ -92,31 +92,31 @@ A Software Developer with a passion for building scalable full-stack web applica
 <div align="center">
 
 <a href="https://www.linkedin.com/in/soham-hipparkar" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 
-<img width="5"/>
+<img width="0"/>
 
 <a href="https://instagram.com/soham_9105" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="30"/>
 </a>
 
-<img width="5"/>
+<img width="0"/>
 
 <a href="https://www.codechef.com/users/sohamhipparkar" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef/white" height="40"/>
+<img src="https://cdn.simpleicons.org/codechef/white" height="30"/>
 </a>
 
-<img width="5"/>
+<img width=""/>
 
 <a href="https://leetcode.com/sohamhipparkar" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30"/>
 </a>
 
-<img width="5"/>
+<img width="0"/>
 
 <a href="https://www.geeksforgeeks.org/user/sohamhipparkar/" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="30"/>
 </a>
 
 </div>
