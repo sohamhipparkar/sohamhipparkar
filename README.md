@@ -74,6 +74,9 @@ A Software Developer with a passion for building scalable full-stack web applica
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sohamhipparkar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+</div>
 
 ---
 
