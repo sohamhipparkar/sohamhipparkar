@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋! I'm Soham</h1>
 
 <h4 align="left">
-A Software Developer with a passion for building scalable full-stack web applications that address real-world problems. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.
+A Software Developer with a passion for building scalable full-stack web applications that address real-world problemsss. Equipped with a strong foundation in data structures and algorithms, I thrive on solving complex challenges and continuously expanding my problem-solving abilities.
 </h4>
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
@@ -77,7 +77,7 @@ A Software Developer with a passion for building scalable full-stack web applica
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Vivek1819&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivek1819&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=sohamhipparkar&theme=dracula&cache_seconds=600" height="175" />
+  <img src="https://streak-stats.demolab.com?user=sohamhipparkar&theme=dracula&cache_seconds=3600" height="175" />
 </div>
 
 ---
