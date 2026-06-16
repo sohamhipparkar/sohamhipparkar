@@ -107,7 +107,7 @@ A Software Developer with a passion for building scalable full-stack web applica
 <img src="https://cdn.simpleicons.org/codechef/white" height="30"/>
 </a>
 
-<img width=""/>
+<img width="0"/>
 
 <a href="https://leetcode.com/sohamhipparkar" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30"/>
