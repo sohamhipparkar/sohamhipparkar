@@ -84,7 +84,7 @@ A Software Developer with a passion for building scalable full-stack web applica
 
 
 <div align="center">
-  <img src="https://github.com/sohamhipparkar/sohamhipparkar/blob/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/sohamhipparkar/sohamhipparkar/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 ---
