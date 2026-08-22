@@ -109,7 +109,7 @@ A Software Developer with a passion for building scalable full-stack web applica
 
 <img width="0"/>
 
-<a href="https://leetcode.com/sohamhipparkar" target="_blank">
+<a href="https://leetcode.com/u/sohamhipparkar/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30"/>
 </a>
 
