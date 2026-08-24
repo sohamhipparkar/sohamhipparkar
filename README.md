@@ -7,7 +7,7 @@ A Software Developer with a passion for building scalable full-stack web applica
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 <p align="left">
-🌱 Currently diving deep into DevOps, Go & distributed systems<br><br>
+🌱 Currently diving deep into AI, DevOps, Go & distributed systems<br><br>
 👯 Open to collaborating on Full Stack / AI-powered / DevTools / Open Source projects<br><br>
 💬 Ask me about React.js, Next.js, Backend Architecture, System Design<br><br>
 📫 Reach me at sohamhipparkar09@gmail.com<br><br>
